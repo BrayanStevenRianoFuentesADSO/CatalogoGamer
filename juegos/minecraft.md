@@ -2,32 +2,36 @@
 
 ## ficha tecnica del minecraft
 
-🧑‍💻 Desarrollador: Mojang Studios
+🧑‍💻 **Desarrollador:** Mojang Studios
 
-📅 Año: 2011 (lanzamiento oficial)
+📅 **Año:** 2011 (lanzamiento oficial)
 
-🎮📱 Plataformas: PC (Windows, macOS, Linux), consolas (PlayStation, Xbox, Nintendo Switch) y móviles (Android, iOS)
+🎮📱 **Plataformas:** PC (Windows, macOS, Linux), consolas (PlayStation, Xbox, Nintendo Switch) y móviles (Android, iOS)
 
 ---
 
 # 🎮 Descripción general
 
-Minecraft es un videojuego de mundo abierto tipo sandbox que permite a los jugadores explorar, construir y sobrevivir en un entorno generado de forma procedimental a base de bloques. Su principal atractivo es la libertad total: no hay un objetivo único, sino que cada jugador crea su propia experiencia.
+**Minecraft** es un videojuego de mundo abierto tipo sandbox que permite a los jugadores explorar, construir y sobrevivir en un entorno generado de forma procedimental a base de bloques. Su principal atractivo es la libertad total: no hay un objetivo único, sino que cada jugador crea su propia experiencia.
 
 Su estilo visual es simple y pixelado, pero ofrece una enorme profundidad en mecánicas, creatividad y posibilidades.
 
 # 🕹️ Modos de juego
 🪓 Supervivencia (Survival):
 El jugador debe recolectar recursos, fabricar herramientas, construir refugios y sobrevivir a enemigos como zombies, esqueletos y creepers.
+
 🧱 Creativo (Creative):
 Se dispone de recursos ilimitados, se puede volar y no hay daño. Ideal para construir sin límites.
+
 🧭 Aventura (Adventure):
 Diseñado para mapas personalizados donde los jugadores deben seguir reglas específicas y no pueden romper bloques libremente.
+
 👁️ Espectador (Spectator):
 Permite observar el mundo sin interactuar, atravesando bloques y viendo desde distintas perspectivas.
-⚙️ Jugabilidad
 
-# La jugabilidad se basa en recolectar, explorar y construir:
+# ⚙️ Jugabilidad
+
+ La jugabilidad se basa en recolectar, explorar y construir:
 
 🔨 Crafteo (crafting): combinar materiales para crear herramientas, armas, armaduras y objetos.
 🌍 Exploración: el mundo es prácticamente infinito, con biomas como bosques, desiertos, océanos y montañas.
