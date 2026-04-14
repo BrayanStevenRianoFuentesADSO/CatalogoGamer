@@ -44,3 +44,7 @@ Minecraft no tiene una historia tradicional guiada, pero sí un trasfondo implí
 El jugador aparece en un mundo desconocido sin explicaciones y debe sobrevivir y progresar. A medida que avanza, descubre estructuras, criaturas extrañas y dimensiones misteriosas. El objetivo “final” es llegar al End y derrotar al dragón Ender (Ender Dragon).
 
 Después de vencerlo, se muestra un mensaje simbólico (conocido como “poema final”) que sugiere temas filosóficos sobre la realidad, la imaginación y el papel del jugador en el mundo.
+
+<p align="center">
+  <img src="https://img.redbull.com/images/c_crop,x_1015,y_0,h_1320,w_990/c_fill,w_450,h_600/q_auto,f_auto/redbullcom/2025/8/11/dcusojkfgapu4zxe3gtb/minecraft-landscape" width="500">
+</p>
