@@ -18,3 +18,11 @@ A lo largo de la aventura, el jugador descubre fragmentos de la historia a trav�
 <p align="center">
   <img src="https://i.makeagif.com/media/10-16-2022/6td9B_.gif" width="500">
 </p>
+
+## Reseña y puntuacion
+
+Hollow Knight es un metroidvania sobresaliente que destaca por su mundo interconectado, su estilo artístico dibujado a mano y su atmósfera inmersiva. La exploración es constante y gratificante, mientras que el combate ofrece un buen nivel de desafío, especialmente en los jefes.
+
+Aunque su dificultad puede ser exigente y la falta de guía puede desorientar a algunos jugadores, esto también refuerza la sensación de descubrimiento y profundidad del juego.
+
+⭐ Puntuación: 9.5 / 10
