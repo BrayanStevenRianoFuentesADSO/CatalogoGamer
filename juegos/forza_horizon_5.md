@@ -16,3 +16,30 @@ A diferencia de otros simuladores, aquí la libertad es total: puedes colecciona
 ```
 ## Imagen Ejemplo
 ![Forza_horizon5](https://wallpapers.com/images/hd/forza-horizon-5-4k-v3ybyfru6xi6yp0i.jpg)
+
+---
+
+# 🏎️ Forza Horizon 5: Ficha Técnica
+
+| Categoría       | Detalle              | Nivel / Estado  |
+|-----------------|----------------------|-----------------|
+| Desarrollador   | Playground Games     | ⭐⭐⭐⭐⭐          |
+| Año             | 2021                 | LANZADO         |
+| Plataformas     | Xbox, PC, PS5        | DISPONIBLE      |
+| Mundo Abierto   | México (11 biomas)   | ⭐⭐⭐⭐⭐          |
+| Colección       | +700 Vehículos       | ⭐⭐⭐⭐⭐          |
+| Gráficos        | Fotorealismo 4K      | ⭐⭐⭐⭐⭐          |
+
+## Reseña Crítica
+***Forza Horizon 5*** es, para la gran mayoría de los expertos, el estándar de oro de las carreras en mundo abierto. Con una calificación sobresaliente de 92/100 en Metacritic, el juego destaca por ser un espectáculo visual que exprime al máximo la potencia de la nueva generación.
+
+### Lo mejor:
+Visuales de infarto: La recreación de México es arte puro; desde la textura del volcán hasta los reflejos en los charcos tras una tormenta tropical.
+Diversión inmediata: No importa si eres un experto en simuladores o un novato, el control se siente increíble y es muy accesible.
+Variedad: El sistema de estaciones y climas dinámicos (como las tormentas de arena) hace que el mapa cambie de forma radical, manteniendo la experiencia fresca.
+### Lo que podría mejorar:
+Fórmula conservadora: Si vienes de Forza Horizon 4, notarás que la estructura del festival es casi idéntica; no arriesga con mecánicas nuevas.
+Economía interna: El juego te bombardea con premios y autos de lujo tan rápido que a veces se pierde esa sensación de "ganarse" las cosas.
+Conclusión: Es un título imprescindible. Es divertido, técnicamente impecable y ofrece una libertad total para disfrutar del automovilismo sin presiones.
+
+made by Eidan
